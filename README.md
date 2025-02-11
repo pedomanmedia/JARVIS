@@ -69,7 +69,7 @@ Anda dapat menyesuaikan *'ALLOWED_COMMANDS'* di file *'.env'* untuk menentukan p
 Kontribusi sangat diterima! Silakan fork repositori ini dan kirim pull request dengan fitur atau perbaikan yang Anda buat.
 
 ## 📜 Lisensi
-Proyek ini dilisensikan di bawah MIT License.
+Proyek ini dilisensikan di bawah [MIT License](https://github.com/pedomanmedia/JARVIS/tree/main?tab=MIT-1-ov-file).
 
 ## 📚 Referensi
 Llama.cpp
