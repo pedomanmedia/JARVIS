@@ -6,7 +6,7 @@ from langchain.prompts import PromptTemplate
 
 # Load model Llama (gunakan model .gguf dari Hugging Face Hub)
 llm = LlamaCpp(
-    model_path="llama-2-7b-chat.Q4_K_M.gguf",  # Download dari Hugging Face Hub
+    model_path="models/llama-2-7b-chat.Q4_K_M.gguf",  # Download dari Hugging Face Hub
     temperature=0.5,
     n_ctx=2048,
 )
