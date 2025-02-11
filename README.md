@@ -1,4 +1,4 @@
-# AI Llama Bot 🤖🦙
+# JARVIS AI Llama Bot 🤖🦙
 
 Bot cerdas berbasis AI yang dapat menjalankan perintah sistem melalui interaksi bahasa alami menggunakan model Llama.
 
@@ -30,8 +30,8 @@ Bot ini menggabungkan kemampuan:
 ### Langkah-langkah
 1. Clone repositori:
    ```bash
-   git clone https://github.com/username/ai-llama-bot.git
-   cd ai-llama-bot
+   git clone https://github.com/pedomanmedia/JARVIS.git
+   cd JARVIS
    ```
 
 2. Install dependencies:
